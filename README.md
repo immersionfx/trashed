@@ -24,6 +24,7 @@ TRASHED is a wake-up call to change our habits. Picture a world where our conven
 
 - ARDK 3.0 installation.
 - Unity 2022.3.11
+- Google Cloud Speech-to-Text API
 
 ## Facts
 
