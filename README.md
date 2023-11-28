@@ -1,10 +1,10 @@
-# Briefly describe Trashed
+# About TRASHED
 
 Think about those single-use items like plastic bottles or cans. You know, the ones we use once and then toss away? Well, they have a way of gathering in places with fewer people or in the water where fish and other creatures live. It's like they disappear from our sight, but they're causing trouble in these far-off places. Now, because we don't always see where these items end up, it's tough for us to grasp just how many of them there are and how much harm they do. The disconnect between where these items are made and the pollution they cause makes it tricky to get everyone excited about changing how we use them.
 
 But imagine if we could connect the dots and get an idea of how many of these pollutants are out there. Seeing their impact on a human scale could make us more sensitive to our environment over time, encouraging us to be mindful of our choices and use fewer of these in our everyday tasks. 
 
-TRASHED stands out as an inventive augmented reality app that allows users get a sense of how much space disposable items occupy and how they can choke an environment making it difficult to navigate and live in. Utilizing augmented reality technology, the app superimposes holographic representations of various single-use pollutants, such as plastic, glass, food, or aluminium disposables, offering users a distinctive and immersive means to witness the accumulation of pollutants in their immediate surroundings.
+TRASHED stands out as an inventive augmented reality app that allows users to get a sense of how much space disposable items occupy and how they can choke an environment making it difficult to navigate and live in. Utilizing augmented reality technology, the app superimposes holographic representations of various single-use pollutants, such as plastic, glass, food, or aluminum disposables, offering users a distinctive and immersive means to witness the accumulation of pollutants in their immediate surroundings.
 
 Users can interact with the app by voicing specific queries like, "Show me the amount of glass bottles thrown away in my city." In response, TRASHED generates 3D holographic images of the selected pollutant within the user's surroundings. This not only provides a visually engaging experience but also allows to explore and understand the extent and number of different types of pollutants thrown away.
 
