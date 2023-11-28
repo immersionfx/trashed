@@ -12,7 +12,6 @@ What sets TRASHED apart is its educational aspect. Users can access detailed inf
 
 TRASHED is a wake-up call to change our habits. Picture a world where our convenience doesn't cost the environment. Join us on a playful journey towards a cleaner, greener future. Let's trash the pollution problem together!
 
-
 ## ARDK features used
 
 - VPS
@@ -25,6 +24,32 @@ TRASHED is a wake-up call to change our habits. Picture a world where our conven
 - ARDK 3.0 installation.
 - Unity 2022.3.11
 - Google Cloud Speech-to-Text API
+
+## How to build
+
+- Speech Recognition:
+    - In Google Cloud Console, you need to enable the Google Cloud Speech-To-Text API and get an API Key
+    - In Scene VPS_Park, find GCSpeechRecognition object and insert the key into the "API Key" field
+
+- VPS:
+    - In Scene VPS_Park, replace the Private scan in the XROrigin - ARLocationManager with your own
+
+- Build for Android with the current settings and the following scenes (at this order): _Scenes/Start, _Scenes/VPS_Park
+
+## How to Play
+
+- Localize to your wayspot
+- Point your device to the sky and a message "How can I help you today?" pops up    
+- Click on the Record button at the bottom right, say your phrase, then click again to dismiss recording
+    - Examples of valid phrases: 
+        - Show me the amount of glass bottles thrown away in my city
+        - Show me the amount of plastic bottles thrown away in my city
+        - Show me the amount of food wasted in America every second
+        - Show me the amount of aluminum cans thrown away in my city
+        - Stop
+        - Restart the app
+        
+- In a few seconds, the app will display your phrase and will start throwing objects around you from above.
 
 ## Facts
 
